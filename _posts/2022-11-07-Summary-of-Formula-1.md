@@ -1,4 +1,8 @@
-# Evaluation of Model on Final unseen races of 2022 & Project Summary
+---
+Layout:posts
+title: Evaluation of Model on Final unseen races of 2022 & Project Summary
+---
+
 
 Author : Ben Palmer\
 Date : 02/11/2022
