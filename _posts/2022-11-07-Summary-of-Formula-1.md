@@ -1,5 +1,5 @@
 ---
-Layout:posts
+Layout: posts
 title: Evaluation of Model on Final unseen races of 2022 & Project Summary
 ---
 
